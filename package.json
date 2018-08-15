@@ -6,7 +6,7 @@
   "author": "Jason Di Benedetto <jason.dibenedetto6@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "prettier": "^1.14.2"
+    "prettier": "1.14.2"
   },
   "prettier": {
     "singleQuote": true
