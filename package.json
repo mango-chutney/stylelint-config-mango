@@ -8,7 +8,7 @@
   "devDependencies": {
     "jest": "23.6.0",
     "jest-preset-stylelint": "1.3.0",
-    "prettier": "1.16.4",
+    "prettier": "2.0.5",
     "semantic-release": "15.13.3",
     "stylelint": "9.10.1"
   },
